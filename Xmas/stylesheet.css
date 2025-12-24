@@ -1,0 +1,16 @@
+.header-logo {
+    float:left;
+    padding: 25px, 40px;
+    font-size:32px;
+    font-family: 'Courier New', Courier, monospace;
+}
+li{
+    list-style-type: none;
+    float :left;
+    padding: 25px, 40px;
+}
+.header{
+    background-color: rgb(211, 211, 211);
+    height: 100px;
+    
+}
